@@ -2,3 +2,5 @@
 gulpfile.js
 package.json
 package-lock.json
+/src/js
+/src/scss
